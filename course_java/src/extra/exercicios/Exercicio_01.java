@@ -1,4 +1,4 @@
-package course_java.exercicio;
+package extra.exercicios;
 
 import java.text.NumberFormat;
 import java.util.Locale;

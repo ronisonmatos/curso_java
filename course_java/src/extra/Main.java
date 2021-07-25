@@ -1,4 +1,4 @@
-package course_java;
+package extra;
 
 public class Main {
 
